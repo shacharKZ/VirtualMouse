@@ -49,8 +49,6 @@ def main():
             mode = 0
 
 
-
-
         cTime = time.time()
         fps = 1 / (cTime - pTime)
         pTime = cTime
